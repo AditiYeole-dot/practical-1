@@ -1,24 +1,12 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>HTML with Bgcolor</title>
+<title>practical 2</title>
 </head>
-<body bgcolor="lightyellow">
-    <header bgcolor="lightblue">
-        <h1>HTML Elements Example</h1>
-        <p>Demonstration of HTML tags with background color.</p>
-    </header>
-    <hr>
-    <p>
-        This paragraph contains formatted text.<br><br>
-        <b>This text is bold</b><br>
-        <i>This text is italic</i><br>
-        <u>This text is underlined</u>
-    </p>
-    <hr>
-    <p>
-        HTML is used to design web pages.<br>
-        It defines the structure and content of a webpage.
-    </p>
-</body>
+<body bgcolor= "coolgreen">
+<b>Aditi Yeole</b>
+<br><br>
+<i>USN:- CS25007</i>
+<br><br>
+<p>Section A</p>
+<palign="center">Department of CSE</p>
 </html>
